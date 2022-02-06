@@ -1,0 +1,43 @@
+{
+    artist: "Verena Issel",
+    titel: "Kraft und Schönheit",
+    media: "2021 / HD-Video, 1:09 min",
+    website: "www.verenaissel.com",
+    instagram: "@verenaverena",
+
+}
+
+  canvas = {
+    name: "Nackterblumenschiß by Götz Sophie Schramm",
+    description: "2009 / digital photo montage \n\n Website: https://www.goetzschramm.com \n\n Instagram: https://www.instagram.com/goetzschramm/",
+    image: "https://i.ibb.co/NW4K3WR/mpty-logo-square.jpg",
+    external_url: "http://www.goetzschramm.com",
+    attributes: [{ instagram: "@goetzschramm" }, { artist: "Götz Sophie Schramm" }],
+  };
+
+
+
+  canvas = {
+    name: "United Nations by Hanny Oldendorf",
+    description: "2010 / GIF-file \n\n Website: https://www.hannyoldendorf.com \n\n Instagram: https://www.instagram.com/hanny_oldendorf/",
+    image: "https://i.ibb.co/NW4K3WR/mpty-logo-square.jpg",
+    external_url: "https://www.hannyoldendorf.com",
+    attributes: [{ instagram: "@hanny_oldendorf" }, { artist: "Hanny Oldendorf" }],
+  };
+
+
+    canvas = {
+        name: "Cloud Atlas-Sub-1 by Alsino Skowronnek",
+        description: "2022 / Taming Transformers and CLIP (algorithms) \n\n Website: https://www.alsino.io \n\n Instagram: https://www.instagram.com/alsinoskowronnek/",
+        image: "https://i.ibb.co/NW4K3WR/mpty-logo-square.jpg",
+        external_url: "https://www.alsino.io",
+        attributes: [{ instagram: "@alsinoskowronnek" }, { artist: "Alsino Skowronnek" }],
+    }
+
+    canvas = {
+        name: "Untitled by Studio C.A.R.E",
+        description: "2020 / Design drawing \n\n Website: https://www.studio-c-a-r-e.com \n\n Instagram: https://www.instagram.com/studio.care.rotterdam/",
+        image: "https://i.ibb.co/NW4K3WR/mpty-logo-square.jpg",
+        external_url: "https://www.studio-c-a-r-e.com",
+        attributes: [{ instagram: "@studio.care.rotterdam" }, { artist: "Studio C.A.R.E" }],
+    }
